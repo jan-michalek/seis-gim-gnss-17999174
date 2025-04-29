@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if [ -x download_data.sh ] ; then
+   ./download_data.sh
+fi
+
+if [ -x install_libs.sh ] ; then
+   ./install_libs.sh
+fi
