@@ -1,13 +1,9 @@
-
-cff-version: 1.2.0
+cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "YOUR_FAMILY_NAME"
-  given-names: "YOUR_GIVEN_NAME"
-  orcid: "https://orcid.org/YOUR_ORC_ID"
-title: "TITLE_OF_THE_PROJECT"
-version: "YOUR_VERSION"
-# https://help.zenodo.org/docs/deposit/describe-records/reserve-doi/
-doi: ASK_A_DOI_AT_ZENODO
-date-released: "YOUR_RELEASE_DATE"
-url: "https://github.com/jan-michalek/seis-gim-gnss-17999174"
+- family-names: Michalek  
+  given-names: Jan
+  orcid: https://orcid.org/0000-0002-8057-7541
+title: Jupyter Notebook Example for processing seismological data, GNSS data and visualizing them together with geological maps.
+version: v0.0.1-beta
+date-released: 2025-05-15
